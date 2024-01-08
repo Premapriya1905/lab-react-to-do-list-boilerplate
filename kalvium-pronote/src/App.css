@@ -1,0 +1,14 @@
+
+
+body{
+background-color: black;}
+.back{
+  background-color: aquamarine;
+  width: 35vw;
+  height: 90vh;
+  text-align: left;
+}
+.center{
+  display: flex;
+  justify-content: center;
+}
